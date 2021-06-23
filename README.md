@@ -1,6 +1,6 @@
 # React CV Application
 
-> - [Live Demo](https://
+> - [Live Demo](https://adeyaoduor.github.io/React-cv-app/
 
 
 ## Built With
